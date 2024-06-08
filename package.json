@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ami.js": "^0.33.0"
+  }
+}
