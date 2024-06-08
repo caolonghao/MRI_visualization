@@ -1,5 +1,5 @@
-# Navigate MRI with 3D mouse
-It displays MRI in 2D and 3D multi-slice views, with easy search and navigation with a 3D mouse.
+# MRI Visualization
+It displays MRI in 2D and 3D multi-slice views, with easy search and navigation with a mouse.
 
 ### 2D
 ![2D](./assets/2d.gif)
@@ -15,7 +15,6 @@ It displays MRI in 2D and 3D multi-slice views, with easy search and navigation 
 * [Usage](#usage)
 * [Development](#development)
 * [License](#license)
-* [Links](#links)
 * [Author](#author)
 
 
@@ -74,10 +73,6 @@ Open the browser and go to address showing in the terminal
 
 ## License
 MIT License
-
-
-## Links
-* [Scalable Brain Atlas](https://scalablebrainatlas.incf.org/mouse/ABA12) (Web which displays brain regions and reference images in 2d and 3d multi-slice views.)
 
 
 ## Author
