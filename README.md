@@ -53,12 +53,12 @@ Run the frontend
 - For 2D visualization
 ```bash
 cd mri-visulization/slices_visulization
-npx server .
+npx serve .
 ```
 - For 3D visualization
 ```bash
 cd mri-visulization/volume_rendering
-npx server .
+npx serve .
 ```
 Open the browser and go to address showing in the terminal
 
